@@ -1,0 +1,35 @@
+body {
+  font-family: 'Metrophobic', Arial, serif;
+  background-image: url(polka_dot_baby_blue_A4.jpg);
+  text-align: center;
+}
+h1 {
+  border-radius: 15px 50px 30px;
+  background: white;
+  color: #3D5266;
+  font-family: 'Metrophobic', Arial, serif;
+  text-align:center;
+}
+
+h2 {
+  border-radius: 15px 50px 30px;
+  background: white;
+  font-family: 'Metrophobic', Arial, serif;
+  text-align:center;
+}
+
+.Carla {
+  width: 500px;
+  margin:auto;
+
+.intro {
+  width: 500px;
+  margin:auto;
+}
+
+}
+
+.bio {
+  width: 500px;
+  margin:auto;
+}
